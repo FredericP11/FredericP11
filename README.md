@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FredericP11 Frederic Predovic
 - 👀 I’m interested in AI
-- 🌱 I’m currently a Computer Science Freshman
+- 🌱 I’m currently a Computer Science Freshman in ASU!
 
 <!---
 FredericP11/FredericP11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
